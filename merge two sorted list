@@ -29,3 +29,6 @@ class Solution {
         return res.next;
     }
 }
+
+
+time complexity: O(min(m, n))
